@@ -1,1 +1,1 @@
-Shell basic description by me
+Display the contents list of your current directory
